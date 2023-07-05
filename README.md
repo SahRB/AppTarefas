@@ -1,7 +1,3 @@
 #  Aplictivo de tarefas
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Este projeto foi desenvolvido acompanhando o curso de flutter da Alura
